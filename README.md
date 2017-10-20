@@ -134,6 +134,7 @@ glup自学笔记
 
 2.本示例以gulp-less为例（编译less文件），命令提示符执行`cnpm install gulp-less --save-dev`;
 ![原谅我盗图了](http://static.ydcss.com/uploads/2015/02/gulp-less-2.png)
+
 3.将会安装node_modules的gulp-less目录下，改目录下gulp-less的使用帮助文档README.md
 
 4.为了能正常使用，我们还要在本地安装gulp：`cnpm install gulp --save-dev`

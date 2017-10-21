@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "author": "smileyby",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-postcss": "^0.9.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-less": "^3.3.2",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uglify": "^3.0.0",
+    "postcss-aspect-ratio-mini": "^0.0.2",
+    "postcss-px-to-viewport": "^0.0.3",
+    "postcss-write-svg": "^3.0.1",
+    "pump": "^1.0.2"
+  }
+}
